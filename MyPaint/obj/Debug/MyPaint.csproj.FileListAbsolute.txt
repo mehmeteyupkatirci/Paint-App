@@ -1,0 +1,13 @@
+C:\Users\90553\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\90553\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\90553\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\90553\source\repos\MyPaint\MyPaint\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\90553\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CopyComplete
+C:\Users\90553\source\repos\MyPaint\MyPaint\bin\Debug\Bunifu_UI_v1.52.dll
